@@ -21,7 +21,7 @@
 	desc = "These aromatic tips of the tea plant can be dried to make tea."
 	icon_state = "tea_aspera_leaves"
 	filling_color = "#008000"
-	grind_results = list(/datum/reagent/toxin/teapowder = 0)
+	grind_results = list(/datum/reagent/toxin/teapowder = 0.1)
 	dry_grind = TRUE
 	can_distill = FALSE
 
@@ -41,7 +41,7 @@
 	name = "Tea Astra tips"
 	icon_state = "tea_astra_leaves"
 	filling_color = "#4582B4"
-	grind_results = list(/datum/reagent/toxin/teapowder = 0, /datum/reagent/medicine/salglu_solution = 0)
+	grind_results = list(/datum/reagent/toxin/teapowder = 0.1, /datum/reagent/medicine/salglu_solution = 0.1)
 
 
 // Coffee
