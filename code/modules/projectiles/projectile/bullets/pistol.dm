@@ -39,5 +39,4 @@
 
 /obj/item/projectile/bullet/m9x18mm
 	name = "9x18mm"
-	damage = 45
-	armour_penetration = 5
+	damage = 38
