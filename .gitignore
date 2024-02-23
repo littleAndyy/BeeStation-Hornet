@@ -190,3 +190,8 @@ Temporary Items
 # byond-tracy
 prof.dll
 libprof.so
+config/admins.txt
+config/config.txt
+config/dbconfig.txt
+config/game_options.txt
+config/gameplay_tweaks.txt
