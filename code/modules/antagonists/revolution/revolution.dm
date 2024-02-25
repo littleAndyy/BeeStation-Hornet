@@ -160,7 +160,7 @@
 	name = "Head Revolutionary"
 	hud_type = "rev_head"
 	banning_key = ROLE_REV_HEAD
-	required_living_playtime = 4
+	required_living_playtime = 1
 	var/remove_clumsy = FALSE
 	var/give_flash = FALSE
 	var/give_hud = TRUE
